@@ -1,2 +1,4 @@
 # HTML-Odev-1
-www.patika.dev
+Front-End eğitimi kapsamında yüklediğim ikinci ödev.
+
+https://app.patika.dev/osmanyildiz
